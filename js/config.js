@@ -91,6 +91,32 @@ var l_musicPlaylist = [
 	{youtube: "9FVADOLRf54", name: "Cantina Band 2"},
 	{youtube: "axZemDfcfX8", name: "Cantina Band"},
 	{youtube: "-bzWSJG93P8", name: "Imperial March"},
+	{youtube: "3YLFakwWwt8", name: "Arctic Monkeys - Flourescent Adolescent"},
+	{youtube: "p00v9ZFhWJM", name: "Gorillaz - On Melancholy Hill"},
+	{youtube: "EAYfJckSEN0", name: "Wice - Star Fighter"},
+	{youtube: "L00wacOr7ck", name: "M O O N - Dust"},
+	{youtube: "X3NA8cRn2l8", name: "Hotline Miami OST - Miami 2"},
+	{youtube: "7u65WiPxZKc", name: "Simpsons Hit + Run - Homer's Day"},
+	{youtube: "khMb3k-Wwvg", name: "Tyler, The Creator - 911"},
+	{youtube: "Kp7eSUU9oy8", name: "Childish Gambino - Redbone"},
+	{youtube: "gGdGFtwCNBE", name: "The Killers - Mr Brightside"},
+	{youtube: "Fi8rsCncwF8", name: "Outkast - Hey Ya"},
+	{youtube: "WCj-IXoHy2E", name: "Venom added this"},
+	{youtube: "EZE62LpaqHg", name: "Tyler, The Creator - See You Again"},
+	{youtube: "EqkBRVukQmE", name: "Arctic Monkeys - When The Sun Goes Down"},
+	{youtube: "Y5fBdpreJiU", name: "The Killers - Somebody Told Me"},
+	{youtube: "nJtK14ffgEM", name: "Coldplay - Adventure of a Lifetime"},
+	{youtube: "iO_WxYC34eM", name: "Imagine Dragons - Radioactive"},
+	{youtube: "RQxDM2K-hd0", name: "Black Banshee"},
+	{youtube: "SSbBvKaM6sk", name: "Blur - Song 2"},
+	{youtube: "hTWKbfoikeg", name: "Nirvana - Smells Like Teen Spirit"},
+	{youtube: "498OznJOYMs", name: "Beach Walk - Zen Remix"},
+	{youtube: "3YLFakwWwt8", name: "Arctic Monkeys - Flourescent Adolescent"},
+	{youtube: "SSbBvKaM6sk", name: "Blur - Song 2"},
+	{youtube: "hTWKbfoikeg", name: "Nirvana - Smells Like Teen Spirit"},
+	{youtube: "498OznJOYMs", name: "Beach Walk - Zen Remix"},
+	{youtube: "NxxjLD2pmlk", name: "Gorillaz - Feel Good Inc},
+		
 ];
 
 /*Random music order?*/
@@ -98,7 +124,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 15;
+var l_musicVolume = 8;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
