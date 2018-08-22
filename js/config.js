@@ -115,7 +115,7 @@ var l_musicPlaylist = [
 	{youtube: "SSbBvKaM6sk", name: "Blur - Song 2"},
 	{youtube: "hTWKbfoikeg", name: "Nirvana - Smells Like Teen Spirit"},
 	{youtube: "498OznJOYMs", name: "Beach Walk - Zen Remix"},
-	{youtube: "NxxjLD2pmlk", name: "Gorillaz - Feel Good Inc},
+	{youtube: "NxxjLD2pmlk", name: "Gorillaz - Feel Good Inc"},
 		
 ];
 
