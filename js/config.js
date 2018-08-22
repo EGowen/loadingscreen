@@ -98,7 +98,7 @@ var l_musicPlaylist = [
 	{youtube: "B5YNiCfWC3A", name: "Kendrick Lamar - Swimming Pools"},
 	{youtube: "Kp7eSUU9oy8", name: "Childish Gambino - Redbone"},
 	{youtube: "h66dI0q_9As", name: "Franz Ferdinand - Take Me Out"},
-	{youtube: "EZE62LpaqHg", name: "Tyler, The Creator - See You Again},
+	{youtube: "EZE62LpaqHg", name: "Tyler, The Creator - See You Again"},
 	
 	
 ];
