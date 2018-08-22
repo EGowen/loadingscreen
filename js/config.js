@@ -91,14 +91,6 @@ var l_musicPlaylist = [
 	{youtube: "9FVADOLRf54", name: "Cantina Band 2"},
 	{youtube: "axZemDfcfX8", name: "Cantina Band"},
 	{youtube: "-bzWSJG93P8", name: "Imperial March"},
-	{youtube: "gw1j_f2_dFg", name: "Callum Adams - No Noncesense"},
-	{youtube: "Gs069dndIYk", name: "Earth, Wind and Fire - September"},
-	{youtube: "FTQbiNvZqaY", name: "Toto - Africa"},
-	{youtube: "HyHNuVaZJ-k", name: "Gorillaz - Feel Good Inc"},
-	{youtube: "B5YNiCfWC3A", name: "Kendrick Lamar - Swimming Pools"},
-	{youtube: "Kp7eSUU9oy8", name: "Childish Gambino - Redbone"},
-	{youtube: "h66dI0q_9As", name: "Franz Ferdinand - Take Me Out"},
-	{youtube: "EZE62LpaqHg", name: "Tyler, The Creator - See You Again"},
 ];
 
 /*Random music order?*/
@@ -106,7 +98,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 10;
+var l_musicVolume = 15;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
