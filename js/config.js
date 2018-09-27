@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Eternal Gaming Imperial RP";
+var l_serverName = "Eternal Gaming Clone Wars";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -54,8 +54,7 @@ var l_bgImages = [
 	"backgrounds/images/server2.jpg",
 	"backgrounds/images/server3.jpg",
 	"backgrounds/images/server4.jpg",
-	"backgrounds/images/server5.png",
-	"backgrounds/images/server6.jpg",
+	
 ];
 
 /*Random background images order?*/
@@ -133,6 +132,15 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining Eternal Gaming!",
+"The 501st Legion specialise in getting up close with their Shotguns",
+"The 41st Elite Corps pick off their targets from a range with their Sniper Rifles",
+"The 21st Nova Corps Suppress their enemies with their miniguns",
+"Delta Squad work as a team to complete special operations",
+"The Alpha Class ARC were trained by Jango Fett and are the Republic's most skilled Clones"
+"Training to become an ARC trooper within your regiment gives you access to better armour and more weaponry",
+"Training to become an ARF trooper within your regiment gives you access to ranged weaponry",
+"The 212th Utilise explosives and vehicles on the battlefield",
+"The bomb squad is a specialised explosives defusal unit",
 ];
 
 /*Random message order?*/
