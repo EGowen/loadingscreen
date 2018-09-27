@@ -136,7 +136,7 @@ var l_messages = [
 "The 41st Elite Corps pick off their targets from a range with their Sniper Rifles",
 "The 21st Nova Corps Suppress their enemies with their miniguns",
 "Delta Squad work as a team to complete special operations",
-"The Alpha Class ARC were trained by Jango Fett and are the Republic's most skilled Clones"
+"The Alpha Class ARC were trained by Jango Fett and are the Republic's most skilled Clones",
 "Training to become an ARC trooper within your regiment gives you access to better armour and more weaponry",
 "Training to become an ARF trooper within your regiment gives you access to ranged weaponry",
 "The 212th Utilise explosives and vehicles on the battlefield",
