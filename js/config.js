@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Eternal Gaming Clone Wars";
+var l_serverName = "Heritage Networks Clone Wars";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -131,7 +131,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining Eternal Gaming!",
+"Thanks for joining Heritage Networks!",
 "The 501st Legion specialise in getting up close with their Shotguns",
 "The 41st Elite Corps pick off their targets from a range with their Sniper Rifles",
 "The 21st Nova Corps Suppress their enemies with their miniguns",
