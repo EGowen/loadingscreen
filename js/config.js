@@ -131,7 +131,7 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining Heritage Networks!",
+"Thanks for joining Eternal Gaming!",
 "The 501st Legion specialise in getting up close with their Shotguns",
 "The 41st Elite Corps pick off their targets from a range with their Scoped Rifles",
 "Heavy Troopers Suppress their enemies with their Rotary Blasters",
