@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Heritage Networks Clone Wars";
+var l_serverName = "Eternal Gaming Clone Wars";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
