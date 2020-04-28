@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Eternal Gaming Clone Wars";
+var l_serverName = "burgernips ttt";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -50,10 +50,11 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/server1.jpg",
-	"backgrounds/images/server2.jpg",
-	"backgrounds/images/server3.jpg",
-	"backgrounds/images/server4.jpg",
+	"backgrounds/images/2b.jpg",
+	"backgrounds/images/tigerking.jpg",
+	"backgrounds/images/dead.png",
+	"backgrounds/images/honor.jpg",
+	"backgrounds/images/martin.jpg",
 	
 ];
 
@@ -87,34 +88,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "9FVADOLRf54", name: "Cantina Band 2"},
-	{youtube: "axZemDfcfX8", name: "Cantina Band"},
-	{youtube: "-bzWSJG93P8", name: "Imperial March"},
-	{youtube: "3YLFakwWwt8", name: "Arctic Monkeys - Flourescent Adolescent"},
-	{youtube: "p00v9ZFhWJM", name: "Gorillaz - On Melancholy Hill"},
-	{youtube: "EAYfJckSEN0", name: "Wice - Star Fighter"},
-	{youtube: "L00wacOr7ck", name: "M O O N - Dust"},
-	{youtube: "X3NA8cRn2l8", name: "Hotline Miami OST - Miami 2"},
-	{youtube: "7u65WiPxZKc", name: "Simpsons Hit + Run - Homer's Day"},
-	{youtube: "khMb3k-Wwvg", name: "Tyler, The Creator - 911"},
-	{youtube: "Kp7eSUU9oy8", name: "Childish Gambino - Redbone"},
-	{youtube: "gGdGFtwCNBE", name: "The Killers - Mr Brightside"},
-	{youtube: "Fi8rsCncwF8", name: "Outkast - Hey Ya"},
-	{youtube: "WCj-IXoHy2E", name: "Venom added this"},
-	{youtube: "EZE62LpaqHg", name: "Tyler, The Creator - See You Again"},
-	{youtube: "EqkBRVukQmE", name: "Arctic Monkeys - When The Sun Goes Down"},
-	{youtube: "Y5fBdpreJiU", name: "The Killers - Somebody Told Me"},
-	{youtube: "nJtK14ffgEM", name: "Coldplay - Adventure of a Lifetime"},
-	{youtube: "iO_WxYC34eM", name: "Imagine Dragons - Radioactive"},
-	{youtube: "RQxDM2K-hd0", name: "Black Banshee"},
-	{youtube: "SSbBvKaM6sk", name: "Blur - Song 2"},
-	{youtube: "hTWKbfoikeg", name: "Nirvana - Smells Like Teen Spirit"},
-	{youtube: "498OznJOYMs", name: "Beach Walk - Zen Remix"},
-	{youtube: "3YLFakwWwt8", name: "Arctic Monkeys - Flourescent Adolescent"},
-	{youtube: "SSbBvKaM6sk", name: "Blur - Song 2"},
-	{youtube: "hTWKbfoikeg", name: "Nirvana - Smells Like Teen Spirit"},
-	{youtube: "498OznJOYMs", name: "Beach Walk - Zen Remix"},
-	{youtube: "NxxjLD2pmlk", name: "Gorillaz - Feel Good Inc"},
+	{youtube: "WB6wYVCEY3w", name: "I Saw a Tiger - Joe Exotic"},
+	
 		
 ];
 
@@ -131,15 +106,8 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining Eternal Gaming!",
-"The 501st Legion specialise in getting up close with their Shotguns",
-"The 41st Elite Corps pick off their targets from a range with their Scoped Rifles",
-"Heavy Troopers Suppress their enemies with their Rotary Blasters",
-"Delta Squad work as a team to complete special operations",
-"The Alpha Class ARC were trained by Jango Fett and are the Republic's most skilled Clones",
-"Training to become an ARC trooper within your regiment gives you access to better armour and more weaponry",
-"Training to become an ARF trooper within your regiment gives you access to ranged weaponry",
-"The 212th Utilise explosives and vehicles on the battlefield",
+"Still would clap Joanas cheeks anyday!",
+
 ];
 
 /*Random message order?*/
