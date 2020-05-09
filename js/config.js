@@ -55,6 +55,12 @@ var l_bgImages = [
 	"backgrounds/images/dead.png",
 	"backgrounds/images/honor.jpg",
 	"backgrounds/images/martin.jpg",
+	"backgrounds/images/bald.jpg",
+	"backgrounds/images/spongeman.jpg",
+	"backgrounds/images/download.jpg",
+	"backgrounds/images/jesus.png",
+	"backgrounds/images/walter.jpg",
+
 	
 ];
 
