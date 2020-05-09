@@ -60,6 +60,7 @@ var l_bgImages = [
 	"backgrounds/images/download.jpg",
 	"backgrounds/images/jesus.png",
 	"backgrounds/images/walter.jpg",
+	"backgrounds/images/eric.jpg",
 
 	
 ];
