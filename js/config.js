@@ -89,6 +89,9 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "WB6wYVCEY3w", name: "I Saw a Tiger - Joe Exotic"},
+	{youtube: "Pl4-Vev0Y_Y", name: "Mark Corrigan Tells you off"},
+	{youtube: "LFgvAyJWkjU", name: "Flute Salad"},
+	{youtube: "bBfgS9XvWME", name: "Fortnite theme (Aqua's favourite game)"},
 	
 		
 ];
@@ -107,7 +110,8 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Still would clap Joanas cheeks anyday!",
-
+"You fucking idiot, Jeremy! You total fucking idiot! That was YOUR job, you fucking moron! You cretin! YOU'RE A FUCKHEAD! THAT'S WHAT YOU ARE! A FUCKING SHITHEAD!",	
+"aqua will probably kill the jester",
 ];
 
 /*Random message order?*/
