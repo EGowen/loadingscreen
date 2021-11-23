@@ -51,16 +51,16 @@ Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/2b.jpg",
-	"backgrounds/images/tigerking.jpg",
-	"backgrounds/images/dead.png",
-	"backgrounds/images/honor.jpg",
-	"backgrounds/images/martin.jpg",
-	"backgrounds/images/bald.jpg",
-	"backgrounds/images/spongeman.jpg",
-	"backgrounds/images/download.jpg",
-	"backgrounds/images/jesus.png",
-	"backgrounds/images/walter.jpg",
-	"backgrounds/images/eric.jpg",
+	"backgrounds/images/makima.jpg",
+	"backgrounds/images/mommy.png",
+	"backgrounds/images/baal.jpg",
+	"backgrounds/images/guts.jpg",
+	"backgrounds/images/gutsss.jpg",
+	"backgrounds/images/berserker.jpg",
+	"backgrounds/images/jill.jpg",
+	"backgrounds/images/csm.png",
+	"backgrounds/images/power.jpg",
+	"backgrounds/images/reze.jpg",
 
 	
 ];
