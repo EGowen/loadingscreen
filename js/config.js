@@ -72,7 +72,7 @@ var l_bgImagesRandom = true;
 /*(Image-background only)
 Delay between background images changes
 in milliseconds*/
-var l_bgImageDuration = 20000;
+var l_bgImageDuration = 15000;
 
 /*(Image-background only)
 Image background fade velocity
@@ -127,7 +127,7 @@ var l_messagesRandom = true;
 
 /*Delay between message changes
 in milliseconds*/
-var l_messagesDelay = 5000;
+var l_messagesDelay = 15000;
 
 /*Messages fade time
 in milliseconds*/
