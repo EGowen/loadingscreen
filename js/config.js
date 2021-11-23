@@ -51,9 +51,7 @@ Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	
-	"backgrounds/images/mika.jpg",
-	"backgrounds/images/makima.jpg",
-	"backgrounds/images/mommy.png",
+	
 	"backgrounds/images/baal.jpg",
 	"backgrounds/images/guts.jpg",
 	"backgrounds/images/gutsss.jpg",
@@ -62,7 +60,9 @@ var l_bgImages = [
 	"backgrounds/images/csm.png",
 	"backgrounds/images/power.jpg",
 	"backgrounds/images/reze.jpg",
-
+	"backgrounds/images/mika.jpg",
+	"backgrounds/images/makima.jpg",
+	"backgrounds/images/mommy.png",
 	
 ];
 
@@ -72,7 +72,7 @@ var l_bgImagesRandom = true;
 /*(Image-background only)
 Delay between background images changes
 in milliseconds*/
-var l_bgImageDuration = 10000;
+var l_bgImageDuration = 20000;
 
 /*(Image-background only)
 Image background fade velocity
