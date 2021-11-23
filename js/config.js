@@ -50,17 +50,7 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/baal.jpg",
-	"backgrounds/images/guts.jpg",
-	"backgrounds/images/gutsss.jpg",
-	"backgrounds/images/berserker.jpg",
-	"backgrounds/images/jill.jpg",
-	"backgrounds/images/csm.png",
-	"backgrounds/images/power.jpg",
-	"backgrounds/images/reze.jpg",
-	"backgrounds/images/mika.jpg",
-	"backgrounds/images/makima.jpg",
-	"backgrounds/images/mommy.png",
+	"loadingscreen/backgrounds/images/mommy.jpg",
 	
 ];
 
