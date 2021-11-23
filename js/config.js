@@ -76,7 +76,7 @@ var l_bgImageDuration = 5000;
 /*(Image-background only)
 Image background fade velocity
 in milliseconds*/
-var l_bgImageFadeVelocity = 2000;
+var l_bgImageFadeVelocity = 1000;
 
 /*Enable background overlay?*/
 var l_bgOverlay = true;
