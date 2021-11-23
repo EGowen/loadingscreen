@@ -71,12 +71,12 @@ var l_bgImagesRandom = true;
 /*(Image-background only)
 Delay between background images changes
 in milliseconds*/
-var l_bgImageDuration = 15000;
+var l_bgImageDuration = 10000;
 
 /*(Image-background only)
 Image background fade velocity
 in milliseconds*/
-var l_bgImageFadeVelocity = 1000;
+var l_bgImageFadeVelocity = 2000;
 
 /*Enable background overlay?*/
 var l_bgOverlay = true;
