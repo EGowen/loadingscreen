@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "burgernips ttt";
+var l_serverName = "Burgernips TTT";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -117,7 +117,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Still would clap Joanas cheeks anyday",
-"You fucking idiot, Jeremy! You total fucking idiot! That was YOUR job, you fucking moron! You cretin! YOU'RE A FUCKHEAD! THAT'S WHAT YOU ARE! A FUCKING SHITHEAD!",	
+"LoL is a shit game",	
 "don't kill the jester dummy",
 ];
 
