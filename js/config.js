@@ -51,6 +51,7 @@ Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/power.jpg",
+	"backgrounds/images/makima.jpg",
 	
 ];
 
